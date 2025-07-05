@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250704230256 +0800">
+<tv date="20250705110351 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -1581,6 +1581,342 @@
 	<programme channel="CCTV-9" start="20250705225900 +0800" stop="20250705235900 +0800">
 		<title lang="zh">寰宇视野2025-186</title>
 	</programme>
+	<channel id="CETV1">
+		<display-name lang="zh">CETV1</display-name>
+	</channel>
+	<programme channel="CETV1" start="20250705000000 +0800" stop="20250705002000 +0800">
+		<title lang="zh">放飞梦想青春歌会</title>
+	</programme>
+	<programme channel="CETV1" start="20250705002000 +0800" stop="20250705012500 +0800">
+		<title lang="zh">发现中国</title>
+	</programme>
+	<programme channel="CETV1" start="20250705012500 +0800" stop="20250705022100 +0800">
+		<title lang="zh">影视公开课</title>
+	</programme>
+	<programme channel="CETV1" start="20250705022100 +0800" stop="20250705023400 +0800">
+		<title lang="zh">纪录中国</title>
+	</programme>
+	<programme channel="CETV1" start="20250705023400 +0800" stop="20250705040000 +0800">
+		<title lang="zh">纪录中国</title>
+	</programme>
+	<programme channel="CETV1" start="20250705040000 +0800" stop="20250705041000 +0800">
+		<title lang="zh">纪录中国</title>
+	</programme>
+	<programme channel="CETV1" start="20250705041000 +0800" stop="20250705044200 +0800">
+		<title lang="zh">发现中国</title>
+	</programme>
+	<programme channel="CETV1" start="20250705044200 +0800" stop="20250705050200 +0800">
+		<title lang="zh">艺术素养公开课</title>
+	</programme>
+	<programme channel="CETV1" start="20250705050200 +0800" stop="20250705051000 +0800">
+		<title lang="zh">纪录中国</title>
+	</programme>
+	<programme channel="CETV1" start="20250705051000 +0800" stop="20250705054000 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CETV1" start="20250705054000 +0800" stop="20250705060000 +0800">
+		<title lang="zh">放飞梦想青春歌会</title>
+	</programme>
+	<programme channel="CETV1" start="20250705060000 +0800" stop="20250705060800 +0800">
+		<title lang="zh">纪录中国</title>
+	</programme>
+	<programme channel="CETV1" start="20250705060800 +0800" stop="20250705063800 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CETV1" start="20250705063800 +0800" stop="20250705070400 +0800">
+		<title lang="zh">放飞梦想青春歌会</title>
+	</programme>
+	<programme channel="CETV1" start="20250705070400 +0800" stop="20250705072500 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV1" start="20250705072500 +0800" stop="20250705075500 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CETV1" start="20250705075500 +0800" stop="20250705080000 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CETV1" start="20250705080000 +0800" stop="20250705084500 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CETV1" start="20250705084500 +0800" stop="20250705093500 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CETV1" start="20250705093500 +0800" stop="20250705102500 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CETV1" start="20250705102500 +0800" stop="20250705111500 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CETV1" start="20250705111500 +0800" stop="20250705114500 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CETV1" start="20250705114500 +0800" stop="20250705120500 +0800">
+		<title lang="zh">少年看中国</title>
+	</programme>
+	<programme channel="CETV1" start="20250705120500 +0800" stop="20250705121900 +0800">
+		<title lang="zh">教育新闻直播间</title>
+	</programme>
+	<programme channel="CETV1" start="20250705121900 +0800" stop="20250705122600 +0800">
+		<title lang="zh">纪录中国</title>
+	</programme>
+	<programme channel="CETV1" start="20250705122600 +0800" stop="20250705131500 +0800">
+		<title lang="zh">一职为你</title>
+	</programme>
+	<programme channel="CETV1" start="20250705131500 +0800" stop="20250705133000 +0800">
+		<title lang="zh">先锋者说</title>
+	</programme>
+	<programme channel="CETV1" start="20250705133000 +0800" stop="20250705142000 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CETV1" start="20250705142000 +0800" stop="20250705151000 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CETV1" start="20250705151000 +0800" stop="20250705152100 +0800">
+		<title lang="zh">教育新闻直播间</title>
+	</programme>
+	<programme channel="CETV1" start="20250705152100 +0800" stop="20250705161300 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CETV1" start="20250705161300 +0800" stop="20250705170500 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CETV1" start="20250705170500 +0800" stop="20250705171500 +0800">
+		<title lang="zh">教育新闻直播间</title>
+	</programme>
+	<programme channel="CETV1" start="20250705171500 +0800" stop="20250705173000 +0800">
+		<title lang="zh">魅力东方</title>
+	</programme>
+	<programme channel="CETV1" start="20250705173000 +0800" stop="20250705183000 +0800">
+		<title lang="zh">我是接班人</title>
+	</programme>
+	<programme channel="CETV1" start="20250705183000 +0800" stop="20250705190000 +0800">
+		<title lang="zh">全国教育新闻联播</title>
+	</programme>
+	<programme channel="CETV1" start="20250705190000 +0800" stop="20250705194500 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="CETV1" start="20250705194500 +0800" stop="20250705200000 +0800">
+		<title lang="zh">育见</title>
+	</programme>
+	<programme channel="CETV1" start="20250705200000 +0800" stop="20250705203500 +0800">
+		<title lang="zh">长安街</title>
+	</programme>
+	<programme channel="CETV1" start="20250705203500 +0800" stop="20250705204500 +0800">
+		<title lang="zh">纪录中国</title>
+	</programme>
+	<programme channel="CETV1" start="20250705204500 +0800" stop="20250705211000 +0800">
+		<title lang="zh">冠军说</title>
+	</programme>
+	<programme channel="CETV1" start="20250705211000 +0800" stop="20250705212500 +0800">
+		<title lang="zh">纪录中国</title>
+	</programme>
+	<programme channel="CETV1" start="20250705212500 +0800" stop="20250705221300 +0800">
+		<title lang="zh">新歌来啦</title>
+	</programme>
+	<programme channel="CETV1" start="20250705221300 +0800" stop="20250705230000 +0800">
+		<title lang="zh">纪录中国</title>
+	</programme>
+	<programme channel="CETV1" start="20250705230000 +0800" stop="20250705235000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<channel id="CETV2">
+		<display-name lang="zh">CETV2</display-name>
+	</channel>
+	<programme channel="CETV2" start="20250705050000 +0800" stop="20250705054000 +0800">
+		<title lang="zh">纪录中国</title>
+	</programme>
+	<programme channel="CETV2" start="20250705054000 +0800" stop="20250705061000 +0800">
+		<title lang="zh">纪录片</title>
+	</programme>
+	<programme channel="CETV2" start="20250705061000 +0800" stop="20250705064000 +0800">
+		<title lang="zh">纪录中国</title>
+	</programme>
+	<programme channel="CETV2" start="20250705064000 +0800" stop="20250705070500 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="CETV2" start="20250705070500 +0800" stop="20250705080000 +0800">
+		<title lang="zh">国史演义</title>
+	</programme>
+	<programme channel="CETV2" start="20250705080000 +0800" stop="20250705090000 +0800">
+		<title lang="zh">同上一堂课</title>
+	</programme>
+	<programme channel="CETV2" start="20250705090000 +0800" stop="20250705100000 +0800">
+		<title lang="zh">同上一堂课</title>
+	</programme>
+	<programme channel="CETV2" start="20250705100000 +0800" stop="20250705110000 +0800">
+		<title lang="zh">同上一堂课</title>
+	</programme>
+	<programme channel="CETV2" start="20250705110000 +0800" stop="20250705120000 +0800">
+		<title lang="zh">同上一堂课</title>
+	</programme>
+	<programme channel="CETV2" start="20250705120000 +0800" stop="20250705130000 +0800">
+		<title lang="zh">中华经典资源库</title>
+	</programme>
+	<programme channel="CETV2" start="20250705130000 +0800" stop="20250705140000 +0800">
+		<title lang="zh">同上一堂课</title>
+	</programme>
+	<programme channel="CETV2" start="20250705140000 +0800" stop="20250705150000 +0800">
+		<title lang="zh">同上一堂课</title>
+	</programme>
+	<programme channel="CETV2" start="20250705150000 +0800" stop="20250705160000 +0800">
+		<title lang="zh">同上一堂课</title>
+	</programme>
+	<programme channel="CETV2" start="20250705160000 +0800" stop="20250705170000 +0800">
+		<title lang="zh">同上一堂课</title>
+	</programme>
+	<programme channel="CETV2" start="20250705170000 +0800" stop="20250705171000 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="CETV2" start="20250705171000 +0800" stop="20250705180000 +0800">
+		<title lang="zh">我是接班人</title>
+	</programme>
+	<programme channel="CETV2" start="20250705180000 +0800" stop="20250705190000 +0800">
+		<title lang="zh">同上一堂课</title>
+	</programme>
+	<programme channel="CETV2" start="20250705190000 +0800" stop="20250705200000 +0800">
+		<title lang="zh">同上一堂课</title>
+	</programme>
+	<programme channel="CETV2" start="20250705200000 +0800" stop="20250705210000 +0800">
+		<title lang="zh">同上一堂课</title>
+	</programme>
+	<programme channel="CETV2" start="20250705210000 +0800" stop="20250705220000 +0800">
+		<title lang="zh">同上一堂课</title>
+	</programme>
+	<programme channel="CETV2" start="20250705220000 +0800" stop="20250705230000 +0800">
+		<title lang="zh">同上一堂课</title>
+	</programme>
+	<programme channel="CETV2" start="20250705230000 +0800" stop="20250705235900 +0800">
+		<title lang="zh">同上一堂课</title>
+	</programme>
+	<channel id="CETV4">
+		<display-name lang="zh">CETV4</display-name>
+	</channel>
+	<programme channel="CETV4" start="20250705000000 +0800" stop="20250705001000 +0800">
+		<title lang="zh">蹦蹦跳跳爱健康</title>
+	</programme>
+	<programme channel="CETV4" start="20250705001000 +0800" stop="20250705010000 +0800">
+		<title lang="zh">探索</title>
+	</programme>
+	<programme channel="CETV4" start="20250705010000 +0800" stop="20250705013000 +0800">
+		<title lang="zh">疾风少年</title>
+	</programme>
+	<programme channel="CETV4" start="20250705013000 +0800" stop="20250705020000 +0800">
+		<title lang="zh">荣耀时刻</title>
+	</programme>
+	<programme channel="CETV4" start="20250705020000 +0800" stop="20250705024500 +0800">
+		<title lang="zh">职教中国</title>
+	</programme>
+	<programme channel="CETV4" start="20250705024500 +0800" stop="20250705031500 +0800">
+		<title lang="zh">蹦蹦跳跳爱健康</title>
+	</programme>
+	<programme channel="CETV4" start="20250705031500 +0800" stop="20250705034500 +0800">
+		<title lang="zh">体谈</title>
+	</programme>
+	<programme channel="CETV4" start="20250705034500 +0800" stop="20250705044000 +0800">
+		<title lang="zh">探索</title>
+	</programme>
+	<programme channel="CETV4" start="20250705044000 +0800" stop="20250705051000 +0800">
+		<title lang="zh">疾风少年</title>
+	</programme>
+	<programme channel="CETV4" start="20250705051000 +0800" stop="20250705060000 +0800">
+		<title lang="zh">职教中国</title>
+	</programme>
+	<programme channel="CETV4" start="20250705060000 +0800" stop="20250705062000 +0800">
+		<title lang="zh">金牌体育课</title>
+	</programme>
+	<programme channel="CETV4" start="20250705062000 +0800" stop="20250705070000 +0800">
+		<title lang="zh">职教中国</title>
+	</programme>
+	<programme channel="CETV4" start="20250705070000 +0800" stop="20250705073000 +0800">
+		<title lang="zh">蹦蹦跳跳爱健康</title>
+	</programme>
+	<programme channel="CETV4" start="20250705073000 +0800" stop="20250705080000 +0800">
+		<title lang="zh">安全动起来</title>
+	</programme>
+	<programme channel="CETV4" start="20250705080000 +0800" stop="20250705100000 +0800">
+		<title lang="zh">青春训练营</title>
+	</programme>
+	<programme channel="CETV4" start="20250705100000 +0800" stop="20250705103000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV4" start="20250705103000 +0800" stop="20250705110000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV4" start="20250705110000 +0800" stop="20250705113000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV4" start="20250705113000 +0800" stop="20250705120000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV4" start="20250705120000 +0800" stop="20250705122500 +0800">
+		<title lang="zh">留学为你来</title>
+	</programme>
+	<programme channel="CETV4" start="20250705122500 +0800" stop="20250705130000 +0800">
+		<title lang="zh">夏天说体育</title>
+	</programme>
+	<programme channel="CETV4" start="20250705130000 +0800" stop="20250705134000 +0800">
+		<title lang="zh">职教中国</title>
+	</programme>
+	<programme channel="CETV4" start="20250705134000 +0800" stop="20250705140500 +0800">
+		<title lang="zh">体谈</title>
+	</programme>
+	<programme channel="CETV4" start="20250705140500 +0800" stop="20250705143000 +0800">
+		<title lang="zh">金牌体育课</title>
+	</programme>
+	<programme channel="CETV4" start="20250705143000 +0800" stop="20250705150000 +0800">
+		<title lang="zh">闪耀职教</title>
+	</programme>
+	<programme channel="CETV4" start="20250705150000 +0800" stop="20250705153000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV4" start="20250705153000 +0800" stop="20250705160000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV4" start="20250705160000 +0800" stop="20250705163000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV4" start="20250705163000 +0800" stop="20250705170000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV4" start="20250705170000 +0800" stop="20250705173000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV4" start="20250705173000 +0800" stop="20250705180000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV4" start="20250705180000 +0800" stop="20250705183000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV4" start="20250705183000 +0800" stop="20250705190000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV4" start="20250705190000 +0800" stop="20250705193000 +0800">
+		<title lang="zh">e体资讯</title>
+	</programme>
+	<programme channel="CETV4" start="20250705193000 +0800" stop="20250705203000 +0800">
+		<title lang="zh">青春训练营</title>
+	</programme>
+	<programme channel="CETV4" start="20250705203000 +0800" stop="20250705213000 +0800">
+		<title lang="zh">青春训练营</title>
+	</programme>
+	<programme channel="CETV4" start="20250705213000 +0800" stop="20250705220000 +0800">
+		<title lang="zh">青春训练营</title>
+	</programme>
+	<programme channel="CETV4" start="20250705220000 +0800" stop="20250705223000 +0800">
+		<title lang="zh">冠军食堂</title>
+	</programme>
+	<programme channel="CETV4" start="20250705223000 +0800" stop="20250705230000 +0800">
+		<title lang="zh">体育大思政课</title>
+	</programme>
+	<programme channel="CETV4" start="20250705230000 +0800" stop="20250705231500 +0800">
+		<title lang="zh">夏天说体育</title>
+	</programme>
+	<programme channel="CETV4" start="20250705231500 +0800" stop="20250705234000 +0800">
+		<title lang="zh">安全动起来</title>
+	</programme>
+	<programme channel="CETV4" start="20250705234000 +0800" stop="20250705235900 +0800">
+		<title lang="zh">蹦蹦跳跳爱健康</title>
+	</programme>
 	<channel id="世界地理">
 		<display-name lang="zh">世界地理</display-name>
 	</channel>
@@ -2352,6 +2688,69 @@
 	<programme channel="风云剧场" start="20250705232100 +0800" stop="20250705235900 +0800">
 		<title lang="zh">浮华饭店1(5)</title>
 	</programme>
+	<channel id="风云足球">
+		<display-name lang="zh">风云足球</display-name>
+	</channel>
+	<programme channel="风云足球" start="20250705000000 +0800" stop="20250705011500 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="风云足球" start="20250705011500 +0800" stop="20250705024000 +0800">
+		<title lang="zh">西甲联赛第7轮巴塞罗那赫塔费</title>
+	</programme>
+	<programme channel="风云足球" start="20250705024000 +0800" stop="20250705040500 +0800">
+		<title lang="zh">西甲联赛毕尔巴鄂竞技塞维利亚</title>
+	</programme>
+	<programme channel="风云足球" start="20250705040500 +0800" stop="20250705053000 +0800">
+		<title lang="zh">西甲联赛第8轮马德里竞技皇马</title>
+	</programme>
+	<programme channel="风云足球" start="20250705053000 +0800" stop="20250705065500 +0800">
+		<title lang="zh">西甲第9轮巴拉多利德巴列卡诺</title>
+	</programme>
+	<programme channel="风云足球" start="20250705065500 +0800" stop="20250705082000 +0800">
+		<title lang="zh">西甲第10轮比利亚雷亚尔赫塔费</title>
+	</programme>
+	<programme channel="风云足球" start="20250705082000 +0800" stop="20250705094500 +0800">
+		<title lang="zh">西甲第11轮皇家马德里巴塞罗那</title>
+	</programme>
+	<programme channel="风云足球" start="20250705094500 +0800" stop="20250705111000 +0800">
+		<title lang="zh">2025南美解放者杯小组赛</title>
+	</programme>
+	<programme channel="风云足球" start="20250705111000 +0800" stop="20250705123500 +0800">
+		<title lang="zh">2025南美解放者杯小组赛</title>
+	</programme>
+	<programme channel="风云足球" start="20250705123500 +0800" stop="20250705130500 +0800">
+		<title lang="zh">赛事集锦英超联赛第25轮集锦</title>
+	</programme>
+	<programme channel="风云足球" start="20250705130500 +0800" stop="20250705143000 +0800">
+		<title lang="zh">英超联赛第8轮曼联布伦特福德</title>
+	</programme>
+	<programme channel="风云足球" start="20250705143000 +0800" stop="20250705155500 +0800">
+		<title lang="zh">英超第8轮伍尔弗汉普顿曼城</title>
+	</programme>
+	<programme channel="风云足球" start="20250705155500 +0800" stop="20250705172000 +0800">
+		<title lang="zh">西甲第15轮皇家马德里赫塔费</title>
+	</programme>
+	<programme channel="风云足球" start="20250705172000 +0800" stop="20250705184500 +0800">
+		<title lang="zh">西甲联赛第19轮马略卡巴塞罗那</title>
+	</programme>
+	<programme channel="风云足球" start="20250705184500 +0800" stop="20250705191000 +0800">
+		<title lang="zh">赛事集锦英超联赛第25轮集锦</title>
+	</programme>
+	<programme channel="风云足球" start="20250705191000 +0800" stop="20250705194000 +0800">
+		<title lang="zh">赛事集锦英超联赛第26轮集锦</title>
+	</programme>
+	<programme channel="风云足球" start="20250705194000 +0800" stop="20250705210000 +0800">
+		<title lang="zh">英超第23轮利物浦伊普斯维奇</title>
+	</programme>
+	<programme channel="风云足球" start="20250705210000 +0800" stop="20250705222500 +0800">
+		<title lang="zh">英超联赛第24轮伯恩茅斯利物浦</title>
+	</programme>
+	<programme channel="风云足球" start="20250705222500 +0800" stop="20250705235000 +0800">
+		<title lang="zh">2025南美解放者杯小组赛</title>
+	</programme>
+	<programme channel="风云足球" start="20250705235000 +0800" stop="20250705235900 +0800">
+		<title lang="zh">2025南美解放者杯小组赛</title>
+	</programme>
 	<channel id="风云音乐">
 		<display-name lang="zh">风云音乐</display-name>
 	</channel>
@@ -2483,65 +2882,5 @@
 	</programme>
 	<programme channel="高尔夫网球" start="20250705230900 +0800" stop="20250705235900 +0800">
 		<title lang="zh">2024年ATP1000男子网球大师赛年终总决赛-半决赛1 (4K)</title>
-	</programme>
-	<channel id="风云足球">
-		<display-name lang="zh">风云足球</display-name>
-	</channel>
-	<programme channel="风云足球" start="20250706011500 +0800" stop="20250706024000 +0800">
-		<title lang="zh">西甲联赛第8轮:马德里竞技-皇马</title>
-	</programme>
-	<programme channel="风云足球" start="20250706024000 +0800" stop="20250706040500 +0800">
-		<title lang="zh">西甲第9轮:巴拉多利德-巴列卡诺</title>
-	</programme>
-	<programme channel="风云足球" start="20250706040500 +0800" stop="20250706053000 +0800">
-		<title lang="zh">西甲第10轮:比利亚雷亚尔-赫塔费</title>
-	</programme>
-	<programme channel="风云足球" start="20250706053000 +0800" stop="20250706065500 +0800">
-		<title lang="zh">西甲第11轮:皇家马德里-巴塞罗那</title>
-	</programme>
-	<programme channel="风云足球" start="20250706065500 +0800" stop="20250706082000 +0800">
-		<title lang="zh">西甲联赛第11轮:赫塔费-巴伦西亚</title>
-	</programme>
-	<programme channel="风云足球" start="20250706082000 +0800" stop="20250706094500 +0800">
-		<title lang="zh">西甲第12轮:巴塞罗那-西班牙人</title>
-	</programme>
-	<programme channel="风云足球" start="20250706094500 +0800" stop="20250706111000 +0800">
-		<title lang="zh">2025南美解放者杯小组赛</title>
-	</programme>
-	<programme channel="风云足球" start="20250706111000 +0800" stop="20250706123500 +0800">
-		<title lang="zh">2025南美解放者杯小组赛</title>
-	</programme>
-	<programme channel="风云足球" start="20250706123500 +0800" stop="20250706130500 +0800">
-		<title lang="zh">赛事集锦:德甲联赛第20轮集锦</title>
-	</programme>
-	<programme channel="风云足球" start="20250706130500 +0800" stop="20250706143000 +0800">
-		<title lang="zh">英超第8轮:伍尔弗汉普顿-曼城</title>
-	</programme>
-	<programme channel="风云足球" start="20250706143000 +0800" stop="20250706155500 +0800">
-		<title lang="zh">英超联赛第9轮:曼城-南安普顿</title>
-	</programme>
-	<programme channel="风云足球" start="20250706155500 +0800" stop="20250706172000 +0800">
-		<title lang="zh">西甲联赛第19轮:马略卡-巴塞罗那</title>
-	</programme>
-	<programme channel="风云足球" start="20250706172000 +0800" stop="20250706184500 +0800">
-		<title lang="zh">西甲:毕尔巴鄂竞技-比利亚雷亚尔</title>
-	</programme>
-	<programme channel="风云足球" start="20250706184500 +0800" stop="20250706191000 +0800">
-		<title lang="zh">赛事集锦:德甲联赛第20轮集锦</title>
-	</programme>
-	<programme channel="风云足球" start="20250706191000 +0800" stop="20250706194000 +0800">
-		<title lang="zh">赛事集锦:德甲联赛第21轮集锦</title>
-	</programme>
-	<programme channel="风云足球" start="20250706194000 +0800" stop="20250706210000 +0800">
-		<title lang="zh">英超联赛第24轮:伯恩茅斯-利物浦</title>
-	</programme>
-	<programme channel="风云足球" start="20250706210000 +0800" stop="20250706222500 +0800">
-		<title lang="zh">英超联赛第15轮:埃弗顿-利物浦</title>
-	</programme>
-	<programme channel="风云足球" start="20250706222500 +0800" stop="20250706235000 +0800">
-		<title lang="zh">2025南美解放者杯小组赛</title>
-	</programme>
-	<programme channel="风云足球" start="20250706235000 +0800" stop="20250706235959 +0800">
-		<title lang="zh">2025南美解放者杯小组赛</title>
 	</programme>
 </tv>
