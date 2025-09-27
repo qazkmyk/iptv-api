@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250926225848 +0800">
+<tv date="20250927110032 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -1544,6 +1544,408 @@
 	</programme>
 	<programme channel="CCTV-9" start="20250927232700 +0800" stop="20250927235900 +0800">
 		<title lang="zh">寰宇视野2025-270</title>
+	</programme>
+	<channel id="CETV1">
+		<display-name lang="zh">CETV1</display-name>
+	</channel>
+	<programme channel="CETV1" start="20250927000000 +0800" stop="20250927002000 +0800">
+		<title lang="zh">等着我(1)</title>
+	</programme>
+	<programme channel="CETV1" start="20250927002000 +0800" stop="20250927012400 +0800">
+		<title lang="zh">发现中国</title>
+	</programme>
+	<programme channel="CETV1" start="20250927012400 +0800" stop="20250927022200 +0800">
+		<title lang="zh">影视公开课</title>
+	</programme>
+	<programme channel="CETV1" start="20250927022200 +0800" stop="20250927023500 +0800">
+		<title lang="zh">纪录中国</title>
+	</programme>
+	<programme channel="CETV1" start="20250927023500 +0800" stop="20250927040000 +0800">
+		<title lang="zh">纪录中国</title>
+	</programme>
+	<programme channel="CETV1" start="20250927040000 +0800" stop="20250927041000 +0800">
+		<title lang="zh">纪录中国</title>
+	</programme>
+	<programme channel="CETV1" start="20250927041000 +0800" stop="20250927044200 +0800">
+		<title lang="zh">发现中国</title>
+	</programme>
+	<programme channel="CETV1" start="20250927044200 +0800" stop="20250927050200 +0800">
+		<title lang="zh">长安书院</title>
+	</programme>
+	<programme channel="CETV1" start="20250927050200 +0800" stop="20250927050900 +0800">
+		<title lang="zh">纪录中国</title>
+	</programme>
+	<programme channel="CETV1" start="20250927050900 +0800" stop="20250927060700 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CETV1" start="20250927060700 +0800" stop="20250927070400 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CETV1" start="20250927070400 +0800" stop="20250927075500 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CETV1" start="20250927075500 +0800" stop="20250927080000 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CETV1" start="20250927080000 +0800" stop="20250927084500 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CETV1" start="20250927084500 +0800" stop="20250927093500 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CETV1" start="20250927093500 +0800" stop="20250927102500 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CETV1" start="20250927102500 +0800" stop="20250927111400 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CETV1" start="20250927111400 +0800" stop="20250927114400 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CETV1" start="20250927114400 +0800" stop="20250927120400 +0800">
+		<title lang="zh">少年看中国</title>
+	</programme>
+	<programme channel="CETV1" start="20250927120400 +0800" stop="20250927121400 +0800">
+		<title lang="zh">教育新闻直播间</title>
+	</programme>
+	<programme channel="CETV1" start="20250927121400 +0800" stop="20250927122500 +0800">
+		<title lang="zh">科学教育最前线</title>
+	</programme>
+	<programme channel="CETV1" start="20250927122500 +0800" stop="20250927132000 +0800">
+		<title lang="zh">一职为你</title>
+	</programme>
+	<programme channel="CETV1" start="20250927132000 +0800" stop="20250927132900 +0800">
+		<title lang="zh">时代新风采</title>
+	</programme>
+	<programme channel="CETV1" start="20250927132900 +0800" stop="20250927141900 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CETV1" start="20250927141900 +0800" stop="20250927150900 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CETV1" start="20250927150900 +0800" stop="20250927152000 +0800">
+		<title lang="zh">教育新闻直播间</title>
+	</programme>
+	<programme channel="CETV1" start="20250927152000 +0800" stop="20250927161200 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CETV1" start="20250927161200 +0800" stop="20250927170400 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="CETV1" start="20250927170400 +0800" stop="20250927171400 +0800">
+		<title lang="zh">教育新闻直播间</title>
+	</programme>
+	<programme channel="CETV1" start="20250927171400 +0800" stop="20250927175000 +0800">
+		<title lang="zh">魅力东方</title>
+	</programme>
+	<programme channel="CETV1" start="20250927175000 +0800" stop="20250927183000 +0800">
+		<title lang="zh">英雄志青年说</title>
+	</programme>
+	<programme channel="CETV1" start="20250927183000 +0800" stop="20250927190000 +0800">
+		<title lang="zh">全国教育新闻联播</title>
+	</programme>
+	<programme channel="CETV1" start="20250927190000 +0800" stop="20250927193700 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="CETV1" start="20250927193700 +0800" stop="20250927194400 +0800">
+		<title lang="zh">纪录中国</title>
+	</programme>
+	<programme channel="CETV1" start="20250927194400 +0800" stop="20250927195900 +0800">
+		<title lang="zh">育见</title>
+	</programme>
+	<programme channel="CETV1" start="20250927195900 +0800" stop="20250927202600 +0800">
+		<title lang="zh">长安街</title>
+	</programme>
+	<programme channel="CETV1" start="20250927202600 +0800" stop="20250927204400 +0800">
+		<title lang="zh">英雄志青年说</title>
+	</programme>
+	<programme channel="CETV1" start="20250927204400 +0800" stop="20250927212400 +0800">
+		<title lang="zh">发现中国</title>
+	</programme>
+	<programme channel="CETV1" start="20250927212400 +0800" stop="20250927221500 +0800">
+		<title lang="zh">新歌来啦</title>
+	</programme>
+	<programme channel="CETV1" start="20250927221500 +0800" stop="20250927225900 +0800">
+		<title lang="zh">纪录中国</title>
+	</programme>
+	<programme channel="CETV1" start="20250927225900 +0800" stop="20250927234900 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<channel id="CETV2">
+		<display-name lang="zh">CETV2</display-name>
+	</channel>
+	<programme channel="CETV2" start="20250927000000 +0800" stop="20250927002000 +0800">
+		<title lang="zh">一年级数学:减法的初步认识</title>
+	</programme>
+	<programme channel="CETV2" start="20250927002000 +0800" stop="20250927004000 +0800">
+		<title lang="zh">二年级语文:树之歌(1)</title>
+	</programme>
+	<programme channel="CETV2" start="20250927004000 +0800" stop="20250927010000 +0800">
+		<title lang="zh">三年级数学人教版</title>
+	</programme>
+	<programme channel="CETV2" start="20250927010000 +0800" stop="20250927012000 +0800">
+		<title lang="zh">四年级语文:夜间飞行的秘密</title>
+	</programme>
+	<programme channel="CETV2" start="20250927012000 +0800" stop="20250927014000 +0800">
+		<title lang="zh">五年级英语</title>
+	</programme>
+	<programme channel="CETV2" start="20250927014000 +0800" stop="20250927020000 +0800">
+		<title lang="zh">六年级语文:七律长征(1)</title>
+	</programme>
+	<programme channel="CETV2" start="20250927020000 +0800" stop="20250927022000 +0800">
+		<title lang="zh">一年级科学:观察植物</title>
+	</programme>
+	<programme channel="CETV2" start="20250927022000 +0800" stop="20250927024000 +0800">
+		<title lang="zh">二年级数学北师版:整理与复习</title>
+	</programme>
+	<programme channel="CETV2" start="20250927024000 +0800" stop="20250927030000 +0800">
+		<title lang="zh">三年级科学:空气有质量吗</title>
+	</programme>
+	<programme channel="CETV2" start="20250927030000 +0800" stop="20250927033000 +0800">
+		<title lang="zh">名师示范课:统计图的选择</title>
+	</programme>
+	<programme channel="CETV2" start="20250927033000 +0800" stop="20250927040000 +0800">
+		<title lang="zh">村寨美丽中国</title>
+	</programme>
+	<programme channel="CETV2" start="20250927040000 +0800" stop="20250927041000 +0800">
+		<title lang="zh">村寨美丽中国</title>
+	</programme>
+	<programme channel="CETV2" start="20250927041000 +0800" stop="20250927044000 +0800">
+		<title lang="zh">村寨美丽中国</title>
+	</programme>
+	<programme channel="CETV2" start="20250927044000 +0800" stop="20250927053000 +0800">
+		<title lang="zh">纪录中国</title>
+	</programme>
+	<programme channel="CETV2" start="20250927053000 +0800" stop="20250927060200 +0800">
+		<title lang="zh">一堂好课</title>
+	</programme>
+	<programme channel="CETV2" start="20250927060200 +0800" stop="20250927063500 +0800">
+		<title lang="zh">发现·中国</title>
+	</programme>
+	<programme channel="CETV2" start="20250927063500 +0800" stop="20250927073000 +0800">
+		<title lang="zh">课本中的古诗文</title>
+	</programme>
+	<programme channel="CETV2" start="20250927073000 +0800" stop="20250927080000 +0800">
+		<title lang="zh">冠军说·从赛场到职场</title>
+	</programme>
+	<programme channel="CETV2" start="20250927080000 +0800" stop="20250927090000 +0800">
+		<title lang="zh">冠军说Ⅳ</title>
+	</programme>
+	<programme channel="CETV2" start="20250927090000 +0800" stop="20250927093000 +0800">
+		<title lang="zh">健康公开课Ⅱ</title>
+	</programme>
+	<programme channel="CETV2" start="20250927093000 +0800" stop="20250927100000 +0800">
+		<title lang="zh">健康公开课Ⅱ</title>
+	</programme>
+	<programme channel="CETV2" start="20250927100000 +0800" stop="20250927103000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV2" start="20250927103000 +0800" stop="20250927110000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV2" start="20250927110000 +0800" stop="20250927113000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV2" start="20250927113000 +0800" stop="20250927120000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV2" start="20250927120000 +0800" stop="20250927123000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV2" start="20250927123000 +0800" stop="20250927130000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV2" start="20250927130000 +0800" stop="20250927133000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV2" start="20250927133000 +0800" stop="20250927140000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV2" start="20250927140000 +0800" stop="20250927143000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV2" start="20250927143000 +0800" stop="20250927150000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV2" start="20250927150000 +0800" stop="20250927153000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV2" start="20250927153000 +0800" stop="20250927160000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV2" start="20250927160000 +0800" stop="20250927163000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV2" start="20250927163000 +0800" stop="20250927170000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV2" start="20250927170000 +0800" stop="20250927173000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV2" start="20250927173000 +0800" stop="20250927180000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV2" start="20250927180000 +0800" stop="20250927183000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV2" start="20250927183000 +0800" stop="20250927190000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV2" start="20250927190000 +0800" stop="20250927193000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV2" start="20250927193000 +0800" stop="20250927200000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV2" start="20250927200000 +0800" stop="20250927203000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV2" start="20250927203000 +0800" stop="20250927210000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV2" start="20250927210000 +0800" stop="20250927213000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV2" start="20250927213000 +0800" stop="20250927220000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV2" start="20250927220000 +0800" stop="20250927223000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV2" start="20250927223000 +0800" stop="20250927230000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV2" start="20250927230000 +0800" stop="20250927233000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<channel id="CETV4">
+		<display-name lang="zh">CETV4</display-name>
+	</channel>
+	<programme channel="CETV4" start="20250927001000 +0800" stop="20250927010000 +0800">
+		<title lang="zh">探索</title>
+	</programme>
+	<programme channel="CETV4" start="20250927010000 +0800" stop="20250927013000 +0800">
+		<title lang="zh">疾风少年</title>
+	</programme>
+	<programme channel="CETV4" start="20250927013000 +0800" stop="20250927020000 +0800">
+		<title lang="zh">荣耀时刻</title>
+	</programme>
+	<programme channel="CETV4" start="20250927020000 +0800" stop="20250927024500 +0800">
+		<title lang="zh">职教中国</title>
+	</programme>
+	<programme channel="CETV4" start="20250927024500 +0800" stop="20250927031500 +0800">
+		<title lang="zh">疾风少年</title>
+	</programme>
+	<programme channel="CETV4" start="20250927031500 +0800" stop="20250927034500 +0800">
+		<title lang="zh">体谈</title>
+	</programme>
+	<programme channel="CETV4" start="20250927034500 +0800" stop="20250927044000 +0800">
+		<title lang="zh">探索</title>
+	</programme>
+	<programme channel="CETV4" start="20250927044000 +0800" stop="20250927051000 +0800">
+		<title lang="zh">疾风少年</title>
+	</programme>
+	<programme channel="CETV4" start="20250927051000 +0800" stop="20250927060000 +0800">
+		<title lang="zh">职教中国</title>
+	</programme>
+	<programme channel="CETV4" start="20250927060000 +0800" stop="20250927062000 +0800">
+		<title lang="zh">金牌体育课</title>
+	</programme>
+	<programme channel="CETV4" start="20250927062000 +0800" stop="20250927070000 +0800">
+		<title lang="zh">职教中国</title>
+	</programme>
+	<programme channel="CETV4" start="20250927070000 +0800" stop="20250927073000 +0800">
+		<title lang="zh">疾风少年</title>
+	</programme>
+	<programme channel="CETV4" start="20250927073000 +0800" stop="20250927075500 +0800">
+		<title lang="zh">安全动起来</title>
+	</programme>
+	<programme channel="CETV4" start="20250927075500 +0800" stop="20250927080000 +0800">
+		<title lang="zh">劳模工程纪录</title>
+	</programme>
+	<programme channel="CETV4" start="20250927080000 +0800" stop="20250927100000 +0800">
+		<title lang="zh">青春训练营</title>
+	</programme>
+	<programme channel="CETV4" start="20250927100000 +0800" stop="20250927103000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV4" start="20250927103000 +0800" stop="20250927110000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV4" start="20250927110000 +0800" stop="20250927113000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV4" start="20250927113000 +0800" stop="20250927120000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV4" start="20250927120000 +0800" stop="20250927122500 +0800">
+		<title lang="zh">留学为你来</title>
+	</programme>
+	<programme channel="CETV4" start="20250927122500 +0800" stop="20250927124000 +0800">
+		<title lang="zh">体教融合小课堂:趣能运动会</title>
+	</programme>
+	<programme channel="CETV4" start="20250927124000 +0800" stop="20250927130000 +0800">
+		<title lang="zh">夏天说体育</title>
+	</programme>
+	<programme channel="CETV4" start="20250927130000 +0800" stop="20250927134000 +0800">
+		<title lang="zh">职教中国</title>
+	</programme>
+	<programme channel="CETV4" start="20250927134000 +0800" stop="20250927140500 +0800">
+		<title lang="zh">体谈</title>
+	</programme>
+	<programme channel="CETV4" start="20250927140500 +0800" stop="20250927143000 +0800">
+		<title lang="zh">金牌体育课</title>
+	</programme>
+	<programme channel="CETV4" start="20250927143000 +0800" stop="20250927150000 +0800">
+		<title lang="zh">闪耀职教</title>
+	</programme>
+	<programme channel="CETV4" start="20250927150000 +0800" stop="20250927153000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV4" start="20250927153000 +0800" stop="20250927160000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV4" start="20250927160000 +0800" stop="20250927163000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV4" start="20250927163000 +0800" stop="20250927170000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV4" start="20250927170000 +0800" stop="20250927173000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV4" start="20250927173000 +0800" stop="20250927180000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV4" start="20250927180000 +0800" stop="20250927183000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV4" start="20250927183000 +0800" stop="20250927190000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV4" start="20250927190000 +0800" stop="20250927193000 +0800">
+		<title lang="zh">e体资讯</title>
+	</programme>
+	<programme channel="CETV4" start="20250927193000 +0800" stop="20250927203000 +0800">
+		<title lang="zh">青春训练营</title>
+	</programme>
+	<programme channel="CETV4" start="20250927203000 +0800" stop="20250927213000 +0800">
+		<title lang="zh">青春训练营</title>
+	</programme>
+	<programme channel="CETV4" start="20250927213000 +0800" stop="20250927220000 +0800">
+		<title lang="zh">青春训练营</title>
+	</programme>
+	<programme channel="CETV4" start="20250927220000 +0800" stop="20250927223000 +0800">
+		<title lang="zh">冠军食堂</title>
+	</programme>
+	<programme channel="CETV4" start="20250927223000 +0800" stop="20250927231500 +0800">
+		<title lang="zh">家长朋友圈:让孩子们跑起来</title>
+	</programme>
+	<programme channel="CETV4" start="20250927231500 +0800" stop="20250927234000 +0800">
+		<title lang="zh">安全动起来</title>
+	</programme>
+	<programme channel="CETV4" start="20250927234000 +0800" stop="20250927235900 +0800">
+		<title lang="zh">疾风少年</title>
 	</programme>
 	<channel id="世界地理">
 		<display-name lang="zh">世界地理</display-name>
