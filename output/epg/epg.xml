@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260906000259 +0800">
+<tv date="20260906135118 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -5058,9 +5058,6 @@
 	<programme channel="CETV2" start="20260906005000 +0800" stop="20260906013500 +0800">
 		<title lang="zh">纪录中国</title>
 	</programme>
-	<programme channel="CETV2" start="20260906005000 +0800" stop="20260906013500 +0800">
-		<title lang="zh">纪录中国</title>
-	</programme>
 	<programme channel="CETV2" start="20260906013500 +0800" stop="20260906020500 +0800">
 		<title lang="zh">发现·中国</title>
 	</programme>
@@ -5133,6 +5130,9 @@
 	<programme channel="CETV2" start="20260906133000 +0800" stop="20260906140000 +0800">
 		<title lang="zh">美丽人生</title>
 	</programme>
+	<programme channel="CETV2" start="20260906133000 +0800" stop="20260906140000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
 	<programme channel="CETV2" start="20260906140000 +0800" stop="20260906143000 +0800">
 		<title lang="zh">等着我</title>
 	</programme>
@@ -5197,9 +5197,6 @@
 		<title lang="zh">节目结束</title>
 	</programme>
 	<programme channel="CETV2" start="20260907000000 +0800" stop="20260907005000 +0800">
-		<title lang="zh">纪录中国</title>
-	</programme>
-	<programme channel="CETV2" start="20260907005000 +0800" stop="20260907013500 +0800">
 		<title lang="zh">纪录中国</title>
 	</programme>
 	<programme channel="CETV2" start="20260907005000 +0800" stop="20260907013500 +0800">
@@ -5285,6 +5282,9 @@
 	</programme>
 	<programme channel="CETV2" start="20260907132000 +0800" stop="20260907133000 +0800">
 		<title lang="zh">课间休息</title>
+	</programme>
+	<programme channel="CETV2" start="20260907133000 +0800" stop="20260907135000 +0800">
+		<title lang="zh">五年级语文:语文园地</title>
 	</programme>
 	<programme channel="CETV2" start="20260907133000 +0800" stop="20260907135000 +0800">
 		<title lang="zh">五年级语文:语文园地</title>
